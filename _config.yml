@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: HAJIN # the main title
 
-tagline: In pursuit of your Dreams, Don't forget God. # it will display as the subtitle
+tagline: In pursuit of your Dreams,\nDon't forget God. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
